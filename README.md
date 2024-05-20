@@ -41,13 +41,13 @@ plt.axis("off")
 plt.show()
 ```
 
-![img](file:///C:/Users/Saiwei/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)
+![image](https://github.com/liuxingjian/pythonTest/assets/69226327/eaee98ea-95af-4fb1-95fd-cf6a6c729a53)
 
 从图中可以发现，我们国家特别重视发展和建设。
 
 （2）
 
-![img](file:///C:/Users/Saiwei/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg)
+![image](https://github.com/liuxingjian/pythonTest/assets/69226327/a164331e-3d4a-4fa1-b590-aa3931c4c16f)
 
 2.请设计程序，采用第三方库**numpy**和**matplotlib**用雷达图展示某一组学生成绩。假设某一组学生的8门课程成绩如下表二所示。
 
@@ -117,8 +117,7 @@ plt.show()
 ```
 
  
-
-![img](file:///C:/Users/Saiwei/AppData/Local/Temp/msohtmlclip1/01/clip_image008.jpg)
+![image](https://github.com/liuxingjian/pythonTest/assets/69226327/1765450b-4fdf-48fb-9841-c7cea7f0ef91)
 
 3.下面是2年服装店的营业数据（万元），请绘制堆积代码柱状图。
 
@@ -183,7 +182,7 @@ survey(results, category_names)
 plt.show()
 ```
 
-![img](file:///C:/Users/Saiwei/AppData/Local/Temp/msohtmlclip1/01/clip_image010.jpg)
+![image](https://github.com/liuxingjian/pythonTest/assets/69226327/8a264e6a-fec5-495a-9266-53a52b27ad06)
 
 \4. 自己设计数据和颜色，绘制倒影柱状图。*
 \* import matplotlib.pyplot as plt
@@ -203,7 +202,7 @@ plt.show()
  
  plt.show()
 
-![img](file:///C:/Users/Saiwei/AppData/Local/Temp/msohtmlclip1/01/clip_image012.jpg)
+![image](https://github.com/liuxingjian/pythonTest/assets/69226327/beb901f6-d352-4be2-be1a-a62ebaaa7c1a)
 
 \5. 2022年1月11日,“郑州市新冠肺炎疫情防控”第29场新闻发布会在市政府新闻发布厅召开，通报郑州市新冠肺炎疫情防控工作最新进展情况。统计显示，截至1月10日24时，全市累计报告本土确诊病例103例（其中，二七区47例，中原区27例，管城区14例，高新区6例，航空港区4例，金水区4例，郑东新区1例）。请用饼状图表示上面这组数据。
 
@@ -229,7 +228,7 @@ plt.title("全市累计报告本土确诊病例")
 plt.show()
 ```
 
-![img](file:///C:/Users/Saiwei/AppData/Local/Temp/msohtmlclip1/01/clip_image014.jpg)
+![image](https://github.com/liuxingjian/pythonTest/assets/69226327/dc0eca1a-c7b6-4569-9e5e-0cf7b8bafaa7)
 
 \6. 绘制正线余弦图像，然后设置图例字体、标题、位置、阴影、背景色、边框颜色、分栏、符号位置等属性。
 
@@ -299,7 +298,7 @@ plt.title("正余弦函数图像")
 plt.show()
 ```
 
-![img](file:///C:/Users/Saiwei/AppData/Local/Temp/msohtmlclip1/01/clip_image016.jpg)
+![image](https://github.com/liuxingjian/pythonTest/assets/69226327/a700ec92-ff4f-42a4-858b-b0e0315604cc)
 
 7.自己设计图样和数据，绘制一幅三维图形。
 
@@ -321,8 +320,7 @@ ax.set_ylabel('B')
 ax.set_zlabel('C')
 plt.show()
 ```
-
-![img](file:///C:/Users/Saiwei/AppData/Local/Temp/msohtmlclip1/01/clip_image018.jpg)
+![image](https://github.com/liuxingjian/pythonTest/assets/69226327/ca20518d-5030-4e92-9ad6-c230f4c84b9b)
 
 8.请使用递归函数设计和绘制一颗分形树。
 
@@ -410,9 +408,7 @@ snowflake(bob, 300)
 turtle.mainloop()
 ```
 
- 
-
-![img](file:///C:/Users/Saiwei/AppData/Local/Temp/msohtmlclip1/01/clip_image020.jpg)
+![image](https://github.com/liuxingjian/pythonTest/assets/69226327/2ddd30fd-6bce-4425-857f-ae470e08aab5)
 
 10.这两个视频图特别有展现力。网上有一条视频（https://baike.baidu.com/item/%E5%8D%97%E4%B8%81%E6%A0%BC%E5%B0%94%E7%8E%AB%E7%91%B0%E5%9B%BE/19510516?fr=aladdin），用南丁格尔玫瑰图展示各个国家新冠疫情死亡人数变化的情况，记录和展现了历史，非常直观。
 
@@ -455,7 +451,4 @@ pie1.set_series_opts(label_opts=opts.LabelOpts(is_show=True, position="inside", 
 pie1.render("南丁格尔玫瑰图.html")
 ```
 
- 
-
-![img](file:///C:/Users/Saiwei/AppData/Local/Temp/msohtmlclip1/01/clip_image022.png)
-
+![image](https://github.com/liuxingjian/pythonTest/assets/69226327/1d2f9d01-07b7-4d67-bffd-7b682c5ac305)
